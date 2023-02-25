@@ -2,13 +2,13 @@
 
 ![image](https://user-images.githubusercontent.com/40007988/221377410-9e75f2ad-3f50-4803-a2cf-5b0bddafc24b.png)
 
-*Track ordinary and unordinary objects
-*Write object location to log to track video stabilization
-*Write distance between two objects to log to track extension / relative displacement
-*User friendly image parameters controllers
-*multiple detection algorithms
-*able to read video from files OR by screen sampling
-*Rich Post processing capabilities help the user to analyze the results
+* Track ordinary and unordinary objects
+* Write object location to log to track video stabilization
+* Write distance between two objects to log to track extension / relative displacement
+* User friendly image parameters controllers
+* multiple detection algorithms
+* able to read video from files OR by screen sampling
+* Rich Post processing capabilities help the user to analyze the results
 
 ## Calibration example
 ![image](https://user-images.githubusercontent.com/40007988/221377665-403a4116-582e-4850-8a2a-e7ce795090ac.png)
